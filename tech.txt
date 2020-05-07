@@ -5,4 +5,6 @@ details about html jsp jdbc
 
 currently learning about git.
 
+Once finished, i will start learning/revising java and js once again.
+
 Thanks.
