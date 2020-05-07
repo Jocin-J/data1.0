@@ -2,3 +2,7 @@ core java
 javascript
 spring mvc
 details about html jsp jdbc
+
+currently learning about git.
+
+Thanks.
