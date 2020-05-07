@@ -1,0 +1,4 @@
+core java
+javascript
+spring mvc
+details about html jsp jdbc
